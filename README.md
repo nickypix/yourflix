@@ -1,2 +1,2 @@
-# yourflix
+# Yourflix
 Projeto AluraFlix da Imersão Dev.
